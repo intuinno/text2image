@@ -23,16 +23,16 @@
     "pathToWeights": "None",
     "data": {
         "train": {
-            "images": "/text2image/text2image/coco/train-images-32x32.npy",
-            "captions": "/text2image/text2image/coco/train-captions.npy",
-            "cap2im": "/text2image/text2image/coco/train-cap2im.pkl", 
-            "caplen": "/text2image/text2image/coco/train-captions-len.npy"
+            "images": "/text2image/train-images-32x32.npy",
+            "captions": "/text2image/train-captions.npy",
+            "cap2im": "/text2image/train-cap2im.pkl", 
+            "caplen": "/text2image/train-captions-len.npy"
         },
         "dev": {
-            "images": "/text2image/text2image/coco/dev-images-32x32.npy",
-            "captions": "/text2image/text2image/coco/dev-captions.npy",
-            "cap2im": "/text2image/text2image/coco/dev-cap2im.pkl", 
-            "caplen": "/text2image/text2image/coco/dev-captions-len.npy"
+            "images": "/text2image/dev-images-32x32.npy",
+            "captions": "/text2image/dev-captions.npy",
+            "cap2im": "/text2image/dev-cap2im.pkl", 
+            "caplen": "/text2image/dev-captions-len.npy"
         }
     }
 }
