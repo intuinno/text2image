@@ -23,16 +23,16 @@
     "pathToWeights": "None",
     "data": {
         "train": {
-            "images": "/ais/gobi3/u/emansim/coco/train-images-32x32.npy",
-            "captions": "/ais/gobi3/u/emansim/coco/train-captions.npy",
-            "cap2im": "/ais/gobi3/u/emansim/coco/train-cap2im.pkl", 
-            "caplen": "/ais/gobi3/u/emansim/coco/train-captions-len.npy"
+            "images": "/text2image/train-images-32x32.npy",
+            "captions": "/text2image/train-captions.npy",
+            "cap2im": "/text2image/train-cap2im.pkl", 
+            "caplen": "/text2image/train-captions-len.npy"
         },
         "dev": {
-            "images": "/ais/gobi3/u/emansim/coco/dev-images-32x32.npy",
-            "captions": "/ais/gobi3/u/emansim/coco/dev-captions.npy",
-            "cap2im": "/ais/gobi3/u/emansim/coco/dev-cap2im.pkl", 
-            "caplen": "/ais/gobi3/u/emansim/coco/dev-captions-len.npy"
+            "images": "/text2image/dev-images-32x32.npy",
+            "captions": "/text2image/dev-captions.npy",
+            "cap2im": "/text2image/dev-cap2im.pkl", 
+            "caplen": "/text2image/dev-captions-len.npy"
         }
     }
 }
